@@ -1,0 +1,24 @@
+{
+  "name": "searchcity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://monirshimul.github.io/searchCity",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monirshimul/search_city.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monirshimul/search_city/issues"
+  },
+  "homepage": "https://github.com/monirshimul/search_city#readme"
+}
